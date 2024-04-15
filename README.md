@@ -51,6 +51,7 @@
   <br>
 
 <hr>
+
 <h2 id="Installation">Installation:</h2>
 
 <h3 id="sourceInstallation"> Installing from source: </h3>
@@ -78,6 +79,7 @@ pip3 install facebook-page-scraper
 
 ```python
 #import Facebook_scraper class from facebook_page_scraper
+https://www.facebook.com/profile.php?id=100085099161790&mibextid=ZbWKwLhttps://www.facebook.com/profile.php?id=100085099161790&mibextid=ZbWKwL
 from facebook_page_scraper import Facebook_scraper
 
 #instantiate the Facebook_scraper class
